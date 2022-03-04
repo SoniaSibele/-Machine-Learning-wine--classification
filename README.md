@@ -1,3 +1,1 @@
-# -Machine-Learning-
-Algoritmo Machine Learning para classificação de vinhos  (tinto ou branco)
-O algorítmo vai aprender quais as características que fazem um vinho ser vinho tinto e quais as características que fazem um vinho ser branco
+Machine Learning algorithm for classifying wines (red or white) The algorithm will learn which characteristics make a wine a red wine and which characteristics make a wine white
